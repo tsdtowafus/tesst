@@ -3,6 +3,8 @@
 
 #include <iostream>
 
+// Them mo ta thoi
+
 int _Is_Int(char buffer[100]);
 int _Is_Float(char buffer[100]);
 int _ReversibleNum(int n);
